@@ -7,7 +7,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" style="width: 150px; height: 100px" />
 </div>
-<div id="badges" style=" align="center">
+<div id="badges" align="center">
     <!---     Badges   --->
     <!---     LinkedIn   --->
     <a href="your-linkedin-URL">
@@ -37,10 +37,8 @@
     <div class="grid-row2" align="center">
         <!---     Stats   --->
                    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falconbolt&theme=2077" />
-        
-        <!---     Commits   --->
-       
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=falconbolt&theme=2077&utcOffset=8" />
+                <!---     Commits   --->
+                   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=falconbolt&theme=2077&utcOffset=8" />
        
     </div>
     </div>
