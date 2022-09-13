@@ -23,7 +23,7 @@
   
   
 </div>
-[![](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)]
+![](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=falconbolt&theme=vue)
 
