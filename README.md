@@ -19,17 +19,16 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   
+    <div><img src="https://github-readme-streak-stats.herokuapp.com?user=falconbolt&theme=vue&date_format=j%20M%5B%20Y%5D" ></div> 
 </div>
   
   
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=falconbolt&theme=vue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=falconbolt&theme=vue&date_format=j%20M%5B%20Y%5D" >
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=falconbolt&theme=vue"/>
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=falconbolt&theme=vue)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falconbolt&theme=vue)
 
