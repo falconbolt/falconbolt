@@ -34,14 +34,14 @@
                <!---     Languages by Commit   --->
        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=falconbolt&theme=2077" />
            </div>
-    <div class="grid-row2" align="center">
+  <div class="grid-row2" align="center">
         <!---     Stats   --->
                    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falconbolt&theme=2077" />
                 <!---     Commits   --->
                    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=falconbolt&theme=2077&utcOffset=8" />
-       
-    </div>
-    </div>
+           </div> 
+                   </div>
+ 
 
 
 
