@@ -4,10 +4,10 @@
 </div>
 
 <!---     Repo Icon   --->
-<div id="header" style=" display: flex; justify-content: center">
+<div id="header" align="center">
     <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" style="width: 150px; height: 100px" />
 </div>
-<div id="badges" style=" display: flex; justify-content: center">
+<div id="badges" style=" align="center">
     <!---     Badges   --->
     <!---     LinkedIn   --->
     <a href="your-linkedin-URL">
@@ -28,15 +28,12 @@
 <!---     Container   --->
 <div>
     <!---     Statistics   --->
-    <div class="grid-row1" style="display: flex;justify-content: space-between; padding: 25px 15px;">
+    <div class="grid-row1" ">
         <!---     Languages by repo   --->
-        <div class="stats-repo">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falconbolt&theme=2077" />
-        </div>
-        <!---     Languages by Commit   --->
-        <div><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=falconbolt&theme=2077" />
-        </div>
-    </div>
+                   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falconbolt&theme=2077" />
+               <!---     Languages by Commit   --->
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=falconbolt&theme=2077" />
+           </div>
     <div class="grid-row2" style="display: flex;justify-content: space-between; padding: 25px 15px;">
         <!---     Stats   --->
         <div>
