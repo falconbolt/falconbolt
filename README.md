@@ -28,21 +28,20 @@
 <!---     Container   --->
 <div>
     <!---     Statistics   --->
-    <div class="grid-row1" ">
+    <div class="grid-row1" " align="center">
         <!---     Languages by repo   --->
                    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falconbolt&theme=2077" />
                <!---     Languages by Commit   --->
        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=falconbolt&theme=2077" />
            </div>
-    <div class="grid-row2" style="display: flex;justify-content: space-between; padding: 25px 15px;">
+    <div class="grid-row2" align="center">
         <!---     Stats   --->
-        <div>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falconbolt&theme=2077" />
-        </div>
+                   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falconbolt&theme=2077" />
+        
         <!---     Commits   --->
-        <div>
+       
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=falconbolt&theme=2077&utcOffset=8" />
-        </div>
+       
     </div>
     </div>
 
