@@ -23,7 +23,8 @@
   
   
 </div>
-![](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=falconbolt&theme=vue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=falconbolt&theme=vue)
 
