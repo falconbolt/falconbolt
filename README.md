@@ -1,11 +1,11 @@
-<div><img src="http://propulsive.in/assets/img/service-icon/web.gif" width="100%"></div>
+<div><img src="http://propulsive.in/assets/img/service-icon/web.gif" width="100%">
+<div id="header" align="center" style="position: absolute;
+  top: 0;
+  left: 0;">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" style="width: 150px; height: 100px;" /> 
+</div></div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="150" height="100" style="border-radius: 50%; border: 5px solid #ffffff;"/>
-</div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
   
   
   <!---     Badges   --->
