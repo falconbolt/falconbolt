@@ -1,49 +1,72 @@
-<div><img src="http://propulsive.in/assets/img/service-icon/web.gif" width="100%">
-<div id="header" align="center" style="position: absolute;
-  top: 0;
-  left: 0;">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" style="width: 150px; height: 100px;" /> 
-</div></div>
-
-
-  
-  
-  <!---     Badges   --->
-  <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-    <div><img src="https://github-readme-streak-stats.herokuapp.com?user=falconbolt&theme=vue&date_format=j%20M%5B%20Y%5D" ></div> 
-</div>
-  
-  
+<!---     Header Image   --->
+<div class="header-image">
+    <img src="http://propulsive.in/assets/img/service-icon/web.gif" width="100%" />
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=falconbolt&theme=vue&date_format=j%20M%5B%20Y%5D" >
+<!---     Repo Icon   --->
+<div id="header" style=" display: flex; justify-content: center">
+    <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" style="width: 150px; height: 100px" />
+</div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=falconbolt&theme=vue"/>
-  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falconbolt&theme=vue)
+<div id="badges" style=" display: flex; justify-content: center">
+    <!---     Badges   --->
+    <!---     LinkedIn   --->
+    <a href="your-linkedin-URL">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="LinkedIn Badge" />
+    </a>
+    <!---     Youtube   --->
+    <a href="your-youtube-URL">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
+            alt="Youtube Badge" /></a>
+    <!---     Twitter   --->
+    <a href="your-twitter-URL">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
+            alt="Twitter Badge" />
+    </a>
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=falconbolt&theme=vue)
+<!---     Streaks Widget   --->
+<div class="streaks" align="center">
+    <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=falconbolt&theme=2077&date_format=j%20M%5B%20Y%5D" />
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falconbolt&theme=vue)
+<!---     Container   --->
+<div class="container" style="display: grid;  justify-content: center;">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=falconbolt&theme=vue&utcOffset=8)
+
+    <!---     Statistics   --->
+
+
+    <div class="grid-row1" style="display: flex;justify-content: space-between; padding: 25px 15px;">
+        <!---     Languages by repo   --->
+        <div class="stats-repo">
+            <img
+                src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falconbolt&theme=2077" />
+        </div>
+
+        <!---     Languages by Commit   --->
+        <div><img
+                src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=falconbolt&theme=2077" />
+        </div>
+    </div>
+
+    <div class="grid-row2" style="display: flex;justify-content: space-between; padding: 25px 15px;">
+        <!---     Stats   --->
+        <div><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falconbolt&theme=2077" />
+        </div>
+        <!---     Commits   --->
+        <div><img
+                src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=falconbolt&theme=2077&utcOffset=8" />
+        </div>
+    </div>
+
+</div>
+
 
 <!---
 falconbolt/falconbolt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- 👋 Hi, I’m @falconbolt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
