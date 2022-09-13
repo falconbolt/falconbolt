@@ -2,11 +2,12 @@
 <div class="header-image">
     <img src="http://propulsive.in/assets/img/service-icon/web.gif" width="100%" />
 </div>
-
+  <br>
 <!---     Repo Icon   --->
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" style="width: 150px; height: 100px" />
 </div>
+  <br>
 <div id="badges" align="center">
     <!---     Badges   --->
     <!---     LinkedIn   --->
@@ -21,10 +22,12 @@
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
     </a>
 </div>
+  <br>
 <!---     Streaks Widget   --->
 <div class="streaks" align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=falconbolt&theme=2077&date_format=j%20M%5B%20Y%5D" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=falconbolt&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
 </div>
+<br>
 <!---     Container   --->
 <div>
     <!---     Statistics   --->
@@ -32,8 +35,10 @@
         <!---     Languages by repo   --->
                    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falconbolt&theme=2077" />
                <!---     Languages by Commit   --->
-       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=falconbolt&theme=2077" />
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=falconbolt&theme=2077"/>
            </div>
+                                                                                                                              <br>
+                                                                                                                            
   <div class="grid-row2" align="center">
         <!---     Stats   --->
                    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falconbolt&theme=2077" />
