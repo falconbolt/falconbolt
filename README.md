@@ -27,9 +27,13 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=falconbolt&theme=vue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=falconbolt&theme=vue"/>
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=falconbolt&theme=vue)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falconbolt&theme=vue)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=falconbolt&theme=vue)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falconbolt&theme=vue)
 
