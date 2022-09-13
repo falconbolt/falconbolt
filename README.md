@@ -24,13 +24,13 @@
   
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=falconbolt&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=falconbolt&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falconbolt&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falconbolt&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falconbolt&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falconbolt&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=falconbolt&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=falconbolt&theme=2077&utcOffset=8)
 
 <!---
 falconbolt/falconbolt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
