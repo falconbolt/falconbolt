@@ -33,7 +33,7 @@
     <!---     Statistics   --->
     <div class="grid-row1" " align="center">
         <!---     Languages by repo   --->
-                   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falconbolt&theme=2077" />
+                   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falconbolt&theme=2077" /> &nbsp;&nbsp;&nbsp;&nbsp;
                <!---     Languages by Commit   --->
        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=falconbolt&theme=2077"/>
            </div>
@@ -41,7 +41,7 @@
                                                                                                                             
   <div class="grid-row2" align="center">
         <!---     Stats   --->
-                   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falconbolt&theme=2077" />
+                   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falconbolt&theme=2077" />&nbsp;&nbsp;&nbsp;&nbsp;
                 <!---     Commits   --->
                    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=falconbolt&theme=2077&utcOffset=8" />
            </div> 
